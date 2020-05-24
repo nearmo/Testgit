@@ -1,1 +1,2 @@
-This is now a test and a quiz.
+The test.
+The quiz.
